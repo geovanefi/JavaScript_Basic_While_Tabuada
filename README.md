@@ -54,7 +54,7 @@
 <br>
 
 # JavaScript Básico - Tabuáda usando o While
-## Uso simples do Whilw e formularios
+## Uso simples do While e formularios
 <p> Aqui também é possivel ver como se cria repetições e alertas</p>
 obs: Tem formulários de facil aplicação nos ensinos basicos, uso de variáveis e etc. . 
 
